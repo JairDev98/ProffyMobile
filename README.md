@@ -1,4 +1,4 @@
-# Projeto Proffy Mobile
+# Proffy Mobile
 
 Projeto desenvolvido utilizando React.Native durante o primeiro semestre de 2020. Esse projeto utiliza três plataformas pilares que tem como objetivo ser um sistema utilizado por professores e alunos para interagirem durante o período de estudo, principalmente com o objetivo dos alunos poderem se orientar dos dias de aula des seus educadores.
 
